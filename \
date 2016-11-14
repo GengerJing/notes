@@ -1,0 +1,15 @@
+init blog
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch ljj_vim_replace
+# Changes to be committed:
+#	new file:   lib/wrap.js
+#	new file:   myblog/index.js
+#	new file:   myblog/package.json
+#	new file:   myblog/routes/index.js
+#	new file:   myblog/routes/users.js
+#	new file:   myblog/views/footer.ejs
+#	new file:   myblog/views/header.ejs
+#	new file:   myblog/views/users.ejs
+#
