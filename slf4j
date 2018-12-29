@@ -1,0 +1,12 @@
+
+参考资料：
+https://www.cnblogs.com/xrq730/p/8619156.html
+
+slf4j只是一个日志标准，并不是日志系统的具体实现；
+slf4j只做两件事情：
+1. 提供日志接口
+2. 提供获取具体日志对象的方法
+
+日志系统要么实现slf4j，例如slf4j-simple、logback；要么有专门的一层桥接来实现slf4j，例如slf4j-log4j12
+
+
